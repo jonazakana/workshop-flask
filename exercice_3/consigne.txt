@@ -1,0 +1,5 @@
+exercice 3
+
+completer le fichier hello.py pour creer une route qui renvoie un template html contenue dans le fichier template.html ou il faudra egalement completer quelque chose
+
+quand vous avez fini executez: python exercice_3/hello.py

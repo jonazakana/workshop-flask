@@ -1,0 +1,2 @@
+pour cet exercice 5 vous devrez coder une route permettant d'ajouter un nom a une liste de users ainsi qu'une route permettant d'afficher les utilisateurs enregistres
+si vous voulez aller plus loin vous pouvez creer d'autres routes permettant par exemple de supprimer des noms de la liste

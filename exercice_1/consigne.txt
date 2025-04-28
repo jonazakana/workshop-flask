@@ -1,0 +1,5 @@
+exercice 1
+
+completer le fichier hello.py pour creer une page flask basique affichant "Hello World !"
+
+quand vous avez fini executez: python exercice_1/hello.py

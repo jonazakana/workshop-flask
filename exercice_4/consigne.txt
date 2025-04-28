@@ -1,0 +1,7 @@
+exercice 4
+
+completer le fichier hello.py pour creer un formulaire grace aux requetes POST/GET !"
+
+quand vous avez fini executez: python exercice_4/hello.py
+
+dans votre navigateur rajoutez dans l'url /hello/{votre nom}, votre nom devrait s'afficher a la suite du hello

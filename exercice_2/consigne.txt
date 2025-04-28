@@ -1,0 +1,7 @@
+exercice 2
+
+completer le fichier hello.py pour creer une route dynamique affichant "Hello {votre nom} !"
+
+quand vous avez fini executez: python exercice_2/hello.py
+
+dans votre navigateur rajoutez dans l'url /hello/{votre nom}, votre nom devrait s'afficher a la suite du hello

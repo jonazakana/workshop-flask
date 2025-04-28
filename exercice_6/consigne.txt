@@ -1,0 +1,1 @@
+pour aborder ce dernier exercice guidé, vous devrez valider un formulaire avec FlaskWTF, pour cela une classe est a disposition dans le fichier forms.py et un template html est disponible
